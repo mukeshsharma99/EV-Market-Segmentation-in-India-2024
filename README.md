@@ -61,13 +61,6 @@ pip install -r requirements.txt
    ```sh
    cd your-repo-name
    ```
-3. Explore the analysis notebooks and reports.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors
-- [Your Name](https://github.com/your-profile)
 
 ---
 This repository aims to provide strategic insights and data-driven decisions for the evolving Indian EV ecosystem.
