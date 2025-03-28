@@ -1,0 +1,601 @@
+State,City,Income Group,Age Group,Daily Commute (km),EV Awareness Score,Charging Stations Density (per 100 sq km),Preferred EV Type,Govt Incentive Awareness,EV Sales (2024),ICE to EV Switch (%),Target Segment
+Karnataka,Bangalore,Low,26-35,21,5.1,5,Truck/Commercial,No,3877,13.5,Budget Segment
+Karnataka,Bangalore,Low,18-25,22,5.2,14,Sedan/SUV,Yes,14633,14.4,Budget Segment
+Karnataka,Bangalore,High,18-25,6,8.7,17,Scooter/Bike,No,11330,9.1,General Segment
+Karnataka,Bangalore,Mid,26-35,7,8.8,3,Scooter/Bike,No,10460,18,Mid-range Consumer
+Karnataka,Bangalore,Mid,50+,40,5.3,13,Scooter/Bike,Yes,5235,6,Frequent Commuter
+Karnataka,Bangalore,High,50+,12,8.9,4,Sedan/SUV,No,9065,18.8,Premium Segment
+Karnataka,Bangalore,Low,50+,31,7.5,10,Sedan/SUV,No,11048,16.7,Budget Segment
+Karnataka,Bangalore,Mid,50+,23,5.7,10,Sedan/SUV,Yes,11854,15.2,Frequent Commuter
+Karnataka,Bangalore,Low,50+,20,6.8,20,Scooter/Bike,No,2393,10,Budget Segment
+Karnataka,Bangalore,Low,18-25,38,6.2,18,Truck/Commercial,No,13144,8.4,Budget Segment
+Karnataka,Bangalore,Mid,36-50,36,7.9,3,Sedan/SUV,Yes,4751,14.4,Frequent Commuter
+Karnataka,Bangalore,Mid,26-35,28,6.9,10,Truck/Commercial,No,12171,14,Frequent Commuter
+Karnataka,Bangalore,Low,18-25,28,9.2,17,Truck/Commercial,Yes,8215,10.2,Budget Segment
+Karnataka,Bangalore,Mid,36-50,33,5.1,11,Truck/Commercial,No,9829,11.8,Frequent Commuter
+Karnataka,Bangalore,Mid,50+,32,5.1,7,Scooter/Bike,Yes,9050,5.6,Frequent Commuter
+Karnataka,Bangalore,Low,36-50,20,7.6,20,Truck/Commercial,No,14592,14.5,Budget Segment
+Karnataka,Bangalore,High,36-50,32,8.5,8,Sedan/SUV,Yes,5686,12.5,Premium Segment
+Karnataka,Bangalore,Mid,50+,8,5.1,5,Truck/Commercial,No,14892,17.5,Mid-range Consumer
+Karnataka,Bangalore,Mid,18-25,13,8.1,17,Scooter/Bike,Yes,10341,14,Mid-range Consumer
+Karnataka,Bangalore,Low,50+,33,5.9,14,Scooter/Bike,Yes,4358,16,Budget Segment
+Karnataka,Bangalore,Low,26-35,17,9.2,18,Truck/Commercial,No,8969,14.3,Budget Segment
+Karnataka,Bangalore,High,50+,13,7.1,14,Truck/Commercial,No,13666,7.2,General Segment
+Karnataka,Bangalore,Mid,26-35,7,8.8,19,Scooter/Bike,Yes,6214,5.7,Mid-range Consumer
+Karnataka,Bangalore,Mid,36-50,11,8.2,13,Sedan/SUV,Yes,5911,9.4,Mid-range Consumer
+Karnataka,Bangalore,High,18-25,25,7.3,18,Truck/Commercial,No,4076,5.6,General Segment
+Karnataka,Bangalore,Low,50+,19,5,9,Scooter/Bike,Yes,7270,16.6,Budget Segment
+Karnataka,Bangalore,Mid,36-50,25,7.3,12,Sedan/SUV,Yes,11635,7.7,Frequent Commuter
+Karnataka,Bangalore,High,26-35,28,7.3,19,Truck/Commercial,Yes,2965,19,General Segment
+Karnataka,Bangalore,High,18-25,30,7.7,4,Scooter/Bike,Yes,7066,16.5,General Segment
+Karnataka,Bangalore,Low,50+,38,9.3,6,Truck/Commercial,No,6041,8.6,Budget Segment
+Karnataka,Bangalore,High,50+,6,7.4,3,Scooter/Bike,No,8437,19.8,General Segment
+Karnataka,Bangalore,High,18-25,30,8.2,12,Scooter/Bike,No,7177,16.4,General Segment
+Karnataka,Bangalore,Low,26-35,11,8.3,6,Scooter/Bike,No,6988,16.1,Budget Segment
+Karnataka,Bangalore,Mid,50+,26,7.6,5,Scooter/Bike,Yes,4440,11.8,Frequent Commuter
+Karnataka,Bangalore,Mid,26-35,18,7.8,8,Sedan/SUV,Yes,5591,13.3,Mid-range Consumer
+Karnataka,Bangalore,Low,50+,35,7.7,12,Scooter/Bike,Yes,14096,6.1,Budget Segment
+Karnataka,Bangalore,High,50+,11,6.9,11,Truck/Commercial,Yes,2753,7.5,General Segment
+Karnataka,Bangalore,Mid,50+,25,8.1,8,Sedan/SUV,Yes,3936,10.7,Frequent Commuter
+Karnataka,Bangalore,Low,26-35,22,7.2,4,Scooter/Bike,Yes,9446,13.8,Budget Segment
+Karnataka,Bangalore,High,26-35,10,8.8,12,Scooter/Bike,Yes,13373,18.1,General Segment
+Karnataka,Bangalore,Low,26-35,29,9.2,18,Sedan/SUV,Yes,4976,15.7,Budget Segment
+Karnataka,Bangalore,Mid,26-35,7,8,10,Sedan/SUV,No,10650,5.2,Mid-range Consumer
+Karnataka,Bangalore,Low,50+,16,9.4,5,Sedan/SUV,No,7459,11,Budget Segment
+Karnataka,Bangalore,High,26-35,13,8.3,14,Sedan/SUV,No,9647,18,Premium Segment
+Karnataka,Bangalore,Mid,50+,31,9.2,15,Truck/Commercial,No,2837,10.1,Frequent Commuter
+Karnataka,Bangalore,High,18-25,35,7,15,Sedan/SUV,No,13778,18.3,Premium Segment
+Karnataka,Bangalore,Low,26-35,38,6.4,7,Scooter/Bike,No,12907,10.1,Budget Segment
+Karnataka,Bangalore,High,50+,27,9.1,8,Sedan/SUV,No,8090,7.3,Premium Segment
+Karnataka,Bangalore,Mid,18-25,32,6.6,5,Truck/Commercial,No,7138,18.6,Frequent Commuter
+Karnataka,Bangalore,Low,18-25,39,7.8,8,Truck/Commercial,Yes,6108,9.6,Budget Segment
+Delhi,Delhi ,Low,50+,17,5.8,12,Sedan/SUV,Yes,11442,17.7,Budget Segment
+Delhi,Delhi ,Mid,50+,9,5.5,8,Truck/Commercial,No,4601,18.7,Mid-range Consumer
+Delhi,Delhi ,Mid,26-35,11,5.5,20,Sedan/SUV,No,11652,11,Mid-range Consumer
+Delhi,Delhi ,Low,36-50,40,8,18,Truck/Commercial,Yes,5756,15.5,Budget Segment
+Delhi,Delhi ,High,36-50,8,5.3,15,Sedan/SUV,No,7226,7.4,Premium Segment
+Delhi,Delhi ,Low,18-25,30,6.1,19,Scooter/Bike,Yes,1662,16.9,Budget Segment
+Delhi,Delhi ,Low,26-35,39,8.2,10,Truck/Commercial,No,7378,12.3,Budget Segment
+Delhi,Delhi ,Mid,36-50,20,6.1,7,Truck/Commercial,Yes,1579,12.4,Mid-range Consumer
+Delhi,Delhi ,Low,26-35,21,5.1,4,Scooter/Bike,Yes,11083,6.5,Budget Segment
+Delhi,Delhi ,Low,36-50,14,7.8,17,Truck/Commercial,No,9299,9.4,Budget Segment
+Delhi,Delhi ,High,36-50,17,7.2,6,Truck/Commercial,Yes,8156,6,General Segment
+Delhi,Delhi ,Mid,18-25,13,9.4,4,Truck/Commercial,No,8932,13.7,Mid-range Consumer
+Delhi,Delhi ,Mid,26-35,36,5.7,14,Scooter/Bike,No,7422,19.8,Frequent Commuter
+Delhi,Delhi ,Mid,50+,32,6.8,6,Truck/Commercial,No,5287,7.8,Frequent Commuter
+Delhi,Delhi ,Mid,26-35,16,9.3,10,Sedan/SUV,Yes,3037,11.5,Mid-range Consumer
+Delhi,Delhi ,High,26-35,9,7.4,8,Truck/Commercial,Yes,11316,7.1,General Segment
+Delhi,Delhi ,High,18-25,19,7.9,19,Truck/Commercial,Yes,9773,8.9,General Segment
+Delhi,Delhi ,High,18-25,24,8.7,3,Sedan/SUV,Yes,9730,16.3,Premium Segment
+Delhi,Delhi ,Mid,26-35,37,6.7,6,Truck/Commercial,Yes,5139,6.3,Frequent Commuter
+Delhi,Delhi ,Mid,18-25,8,8.6,12,Truck/Commercial,No,12430,12.3,Mid-range Consumer
+Delhi,Delhi ,Low,50+,9,6.5,18,Sedan/SUV,No,11915,16.1,Budget Segment
+Delhi,Delhi ,Mid,26-35,28,8.8,8,Truck/Commercial,Yes,8713,12,Frequent Commuter
+Delhi,Delhi ,Low,18-25,40,5.4,4,Truck/Commercial,No,14106,9.6,Budget Segment
+Delhi,Delhi ,High,18-25,11,8.2,13,Truck/Commercial,Yes,13192,14.1,General Segment
+Delhi,Delhi ,Mid,18-25,34,6.1,19,Scooter/Bike,Yes,11161,6,Frequent Commuter
+Delhi,Delhi ,High,50+,11,9.5,7,Sedan/SUV,No,8668,7.4,Premium Segment
+Delhi,Delhi ,Mid,26-35,5,8.3,9,Sedan/SUV,No,14857,13.6,Mid-range Consumer
+Delhi,Delhi ,High,50+,33,6,7,Sedan/SUV,Yes,13365,15.4,Premium Segment
+Delhi,Delhi ,Mid,18-25,31,9.5,10,Truck/Commercial,Yes,5756,18.6,Frequent Commuter
+Delhi,Delhi ,Mid,26-35,21,8.4,14,Sedan/SUV,No,9427,17.2,Frequent Commuter
+Delhi,Delhi ,High,18-25,5,6.9,7,Sedan/SUV,Yes,9781,6.5,Premium Segment
+Delhi,Delhi ,High,18-25,36,9,13,Truck/Commercial,Yes,1409,19.8,General Segment
+Delhi,Delhi ,Low,36-50,11,6,20,Truck/Commercial,Yes,7958,10.8,Budget Segment
+Delhi,Delhi ,Low,18-25,29,5.4,10,Scooter/Bike,No,10134,12.7,Budget Segment
+Delhi,Delhi ,Low,18-25,14,9.2,9,Sedan/SUV,No,9817,15.1,Budget Segment
+Delhi,Delhi ,High,50+,6,7.5,13,Scooter/Bike,Yes,13256,8.5,General Segment
+Delhi,Delhi ,Mid,26-35,30,6.9,16,Truck/Commercial,Yes,6984,5.3,Frequent Commuter
+Delhi,Delhi ,High,36-50,16,9.4,7,Sedan/SUV,Yes,2262,19.1,Premium Segment
+Delhi,Delhi ,Low,18-25,38,7,6,Scooter/Bike,No,1829,8.6,Budget Segment
+Delhi,Delhi ,Low,18-25,27,5.9,17,Sedan/SUV,No,3820,12.2,Budget Segment
+Delhi,Delhi ,High,50+,32,5.8,14,Truck/Commercial,No,5352,10.9,General Segment
+Delhi,Delhi ,High,18-25,30,8.3,13,Truck/Commercial,No,6041,12.5,General Segment
+Delhi,Delhi ,High,50+,12,5.3,11,Scooter/Bike,Yes,10747,17.3,General Segment
+Delhi,Delhi ,Mid,36-50,23,8.7,5,Truck/Commercial,No,10040,15.4,Frequent Commuter
+Delhi,Delhi ,High,18-25,26,5.6,5,Sedan/SUV,Yes,4412,17.1,Premium Segment
+Delhi,Delhi ,Mid,50+,27,5.6,13,Sedan/SUV,No,3897,19.3,Frequent Commuter
+Delhi,Delhi ,High,50+,31,8.5,19,Scooter/Bike,Yes,8360,16.7,General Segment
+Delhi,Delhi ,Low,50+,12,5.4,6,Sedan/SUV,No,9271,14.5,Budget Segment
+Delhi,Delhi ,Mid,36-50,13,6.5,13,Truck/Commercial,Yes,11796,10.5,Mid-range Consumer
+Delhi,Delhi ,Mid,36-50,16,5.7,4,Sedan/SUV,Yes,12632,5.5,Mid-range Consumer
+Maharashtra,Mumbai,Low,26-35,11,9,10,Truck/Commercial,Yes,1674,18.5,Budget Segment
+Maharashtra,Mumbai,Low,50+,12,6.7,5,Sedan/SUV,No,10096,16.6,Budget Segment
+Maharashtra,Mumbai,High,26-35,5,9,7,Scooter/Bike,No,14236,5.7,General Segment
+Maharashtra,Mumbai,Low,50+,5,7.5,8,Truck/Commercial,Yes,6258,11.3,Budget Segment
+Maharashtra,Mumbai,Low,50+,20,6.7,3,Scooter/Bike,Yes,3491,12.2,Budget Segment
+Maharashtra,Mumbai,Low,18-25,19,6.9,6,Scooter/Bike,Yes,10012,10.3,Budget Segment
+Maharashtra,Mumbai,Low,50+,21,7.2,5,Truck/Commercial,No,2311,15.9,Budget Segment
+Maharashtra,Mumbai,Mid,18-25,31,5.3,8,Sedan/SUV,No,7847,5.9,Frequent Commuter
+Maharashtra,Mumbai,Low,18-25,9,6.6,6,Truck/Commercial,Yes,6270,12.8,Budget Segment
+Maharashtra,Mumbai,Low,26-35,40,7.7,11,Scooter/Bike,Yes,11789,6,Budget Segment
+Maharashtra,Mumbai,Low,50+,34,6.3,12,Truck/Commercial,No,6556,17.3,Budget Segment
+Maharashtra,Mumbai,High,50+,11,7.9,3,Sedan/SUV,No,9506,7.8,Premium Segment
+Maharashtra,Mumbai,Mid,18-25,10,5.7,7,Truck/Commercial,Yes,13748,5.8,Mid-range Consumer
+Maharashtra,Mumbai,Mid,26-35,14,9.3,14,Sedan/SUV,Yes,4223,5.6,Mid-range Consumer
+Maharashtra,Mumbai,Low,18-25,16,5.9,14,Scooter/Bike,No,3237,17.2,Budget Segment
+Maharashtra,Mumbai,Mid,36-50,11,6.9,12,Sedan/SUV,Yes,1824,14.5,Mid-range Consumer
+Maharashtra,Mumbai,Mid,18-25,26,8.6,17,Truck/Commercial,Yes,12712,19.9,Frequent Commuter
+Maharashtra,Mumbai,Low,36-50,18,8.6,20,Truck/Commercial,No,3827,7.1,Budget Segment
+Maharashtra,Mumbai,Low,36-50,8,8.4,18,Truck/Commercial,Yes,8960,18.3,Budget Segment
+Maharashtra,Mumbai,Low,26-35,14,5.6,10,Scooter/Bike,Yes,12552,18.9,Budget Segment
+Maharashtra,Mumbai,High,36-50,23,7.1,13,Sedan/SUV,No,5396,10.6,Premium Segment
+Maharashtra,Mumbai,Mid,36-50,9,7.2,18,Truck/Commercial,Yes,2968,14.9,Mid-range Consumer
+Maharashtra,Mumbai,Low,26-35,8,7,11,Scooter/Bike,No,5873,19.1,Budget Segment
+Maharashtra,Mumbai,Mid,26-35,33,6.8,18,Truck/Commercial,Yes,11940,13.1,Frequent Commuter
+Maharashtra,Mumbai,High,26-35,19,8.7,10,Scooter/Bike,Yes,8067,17.2,General Segment
+Maharashtra,Mumbai,High,50+,20,5.8,15,Scooter/Bike,No,12069,17.2,General Segment
+Maharashtra,Mumbai,Low,36-50,40,9,16,Sedan/SUV,Yes,8949,8,Budget Segment
+Maharashtra,Mumbai,High,26-35,40,6.2,15,Scooter/Bike,Yes,4609,14.3,General Segment
+Maharashtra,Mumbai,High,36-50,32,7.1,14,Sedan/SUV,Yes,13298,8.5,Premium Segment
+Maharashtra,Mumbai,High,18-25,12,7.3,7,Truck/Commercial,No,12503,9.9,General Segment
+Maharashtra,Mumbai,Low,50+,10,7.8,15,Truck/Commercial,No,14649,9.8,Budget Segment
+Maharashtra,Mumbai,Low,18-25,33,8.5,12,Scooter/Bike,Yes,2934,16.8,Budget Segment
+Maharashtra,Mumbai,Mid,18-25,40,5.5,20,Sedan/SUV,Yes,3426,17.4,Frequent Commuter
+Maharashtra,Mumbai,High,18-25,12,7,7,Scooter/Bike,No,1056,6.2,General Segment
+Maharashtra,Mumbai,Low,18-25,36,5.2,16,Scooter/Bike,Yes,14959,15,Budget Segment
+Maharashtra,Mumbai,High,36-50,6,7.9,18,Scooter/Bike,No,8511,7.5,General Segment
+Maharashtra,Mumbai,Low,36-50,18,8.7,13,Sedan/SUV,Yes,7632,6.8,Budget Segment
+Maharashtra,Mumbai,High,18-25,30,7.1,3,Sedan/SUV,No,1381,13,Premium Segment
+Maharashtra,Mumbai,Mid,18-25,30,5.2,17,Scooter/Bike,Yes,11358,7.7,Frequent Commuter
+Maharashtra,Mumbai,Mid,26-35,28,8.2,18,Sedan/SUV,No,7317,6,Frequent Commuter
+Maharashtra,Mumbai,High,18-25,18,5.7,5,Sedan/SUV,No,14746,15,Premium Segment
+Maharashtra,Mumbai,Low,50+,15,9.2,10,Sedan/SUV,Yes,5222,10.5,Budget Segment
+Maharashtra,Mumbai,Mid,36-50,28,5.1,11,Sedan/SUV,No,8245,11,Frequent Commuter
+Maharashtra,Mumbai,High,36-50,19,8.4,9,Truck/Commercial,Yes,14396,19.3,General Segment
+Maharashtra,Mumbai,High,26-35,19,8.6,5,Sedan/SUV,No,8322,9.8,Premium Segment
+Maharashtra,Mumbai,High,50+,30,6.4,12,Truck/Commercial,Yes,6404,5.4,General Segment
+Maharashtra,Mumbai,Low,36-50,19,5.4,18,Truck/Commercial,No,3557,9.9,Budget Segment
+Maharashtra,Mumbai,Mid,18-25,24,6.3,17,Truck/Commercial,No,14436,12,Frequent Commuter
+Maharashtra,Mumbai,High,50+,15,8.3,18,Scooter/Bike,Yes,3596,15.5,General Segment
+Maharashtra,Mumbai,Low,18-25,28,8.1,14,Sedan/SUV,No,13091,12.6,Budget Segment
+Rajasthan,Jaipur,Low,26-35,6,9.2,17,Scooter/Bike,Yes,1014,5.5,Budget Segment
+Rajasthan,Jaipur,Low,36-50,33,7.9,11,Sedan/SUV,No,3538,12.8,Budget Segment
+Rajasthan,Jaipur,Mid,50+,39,9.5,16,Scooter/Bike,No,14701,11.2,Frequent Commuter
+Rajasthan,Jaipur,Mid,50+,25,7.2,4,Sedan/SUV,No,12348,6.4,Frequent Commuter
+Rajasthan,Jaipur,Low,26-35,22,7.4,6,Sedan/SUV,No,8666,15.2,Budget Segment
+Rajasthan,Jaipur,Mid,26-35,18,6.7,9,Scooter/Bike,No,12578,12.3,Mid-range Consumer
+Rajasthan,Jaipur,High,18-25,36,7,13,Scooter/Bike,Yes,10891,17.9,General Segment
+Rajasthan,Jaipur,High,50+,18,7.5,9,Truck/Commercial,Yes,14087,5.6,General Segment
+Rajasthan,Jaipur,Low,18-25,16,5.5,11,Sedan/SUV,No,11308,13.9,Budget Segment
+Rajasthan,Jaipur,Low,36-50,34,8.7,3,Scooter/Bike,No,11585,17.3,Budget Segment
+Rajasthan,Jaipur,High,18-25,34,7.4,16,Scooter/Bike,Yes,11334,9.2,General Segment
+Rajasthan,Jaipur,Low,26-35,36,5.4,18,Scooter/Bike,Yes,9745,7.9,Budget Segment
+Rajasthan,Jaipur,Low,50+,11,6.7,13,Truck/Commercial,No,6844,16.8,Budget Segment
+Rajasthan,Jaipur,High,26-35,13,6.2,13,Scooter/Bike,Yes,3542,14.5,General Segment
+Rajasthan,Jaipur,High,36-50,28,5.8,8,Sedan/SUV,Yes,1888,10.4,Premium Segment
+Rajasthan,Jaipur,High,18-25,32,9.1,10,Truck/Commercial,Yes,7544,12.3,General Segment
+Rajasthan,Jaipur,Low,26-35,11,8.6,5,Sedan/SUV,Yes,13897,6.1,Budget Segment
+Rajasthan,Jaipur,Low,50+,38,8.4,8,Scooter/Bike,Yes,7614,14.7,Budget Segment
+Rajasthan,Jaipur,Low,26-35,13,7.2,19,Sedan/SUV,Yes,8121,9.4,Budget Segment
+Rajasthan,Jaipur,Mid,26-35,6,5.1,17,Sedan/SUV,No,1101,17.2,Mid-range Consumer
+Rajasthan,Jaipur,Mid,50+,30,5.2,17,Scooter/Bike,Yes,7503,7.1,Frequent Commuter
+Rajasthan,Jaipur,High,36-50,24,8.9,8,Sedan/SUV,Yes,6616,10.7,Premium Segment
+Rajasthan,Jaipur,Low,26-35,15,8.8,16,Sedan/SUV,No,14042,5.6,Budget Segment
+Rajasthan,Jaipur,Low,36-50,9,8.7,6,Truck/Commercial,Yes,3089,8.2,Budget Segment
+Rajasthan,Jaipur,Mid,18-25,7,6.4,18,Truck/Commercial,Yes,8518,7.1,Mid-range Consumer
+Rajasthan,Jaipur,High,26-35,37,8.2,6,Scooter/Bike,Yes,5783,11.4,General Segment
+Rajasthan,Jaipur,Low,18-25,22,5.6,14,Sedan/SUV,No,14323,9.7,Budget Segment
+Rajasthan,Jaipur,High,36-50,25,7.8,14,Sedan/SUV,Yes,4554,19.4,Premium Segment
+Rajasthan,Jaipur,Low,50+,37,5.4,7,Scooter/Bike,Yes,4468,9.1,Budget Segment
+Rajasthan,Jaipur,Low,18-25,15,6.7,18,Truck/Commercial,No,3676,14.6,Budget Segment
+Rajasthan,Jaipur,Mid,26-35,7,9,19,Truck/Commercial,No,12229,15.5,Mid-range Consumer
+Rajasthan,Jaipur,Low,50+,6,8.3,5,Truck/Commercial,Yes,3335,15.3,Budget Segment
+Rajasthan,Jaipur,Low,36-50,27,5.5,15,Truck/Commercial,Yes,6063,6,Budget Segment
+Rajasthan,Jaipur,Mid,18-25,22,9.4,6,Truck/Commercial,No,9773,19.1,Frequent Commuter
+Rajasthan,Jaipur,Mid,26-35,36,6,16,Sedan/SUV,No,11640,5.6,Frequent Commuter
+Rajasthan,Jaipur,Low,18-25,20,5.1,15,Scooter/Bike,Yes,12965,12.8,Budget Segment
+Rajasthan,Jaipur,Mid,18-25,9,7.9,17,Sedan/SUV,Yes,5491,8.7,Mid-range Consumer
+Rajasthan,Jaipur,Mid,18-25,9,7.5,8,Scooter/Bike,Yes,7164,7.8,Mid-range Consumer
+Rajasthan,Jaipur,Mid,50+,20,7.8,8,Truck/Commercial,Yes,8492,8.4,Mid-range Consumer
+Rajasthan,Jaipur,Low,50+,20,6.3,20,Truck/Commercial,Yes,3551,5.1,Budget Segment
+Rajasthan,Jaipur,Mid,50+,31,9.5,5,Truck/Commercial,Yes,10426,6,Frequent Commuter
+Rajasthan,Jaipur,Mid,18-25,33,7.4,20,Sedan/SUV,Yes,7862,17.1,Frequent Commuter
+Rajasthan,Jaipur,High,36-50,28,9,15,Scooter/Bike,Yes,8556,10,General Segment
+Rajasthan,Jaipur,High,26-35,22,7,16,Scooter/Bike,Yes,5511,17.9,General Segment
+Rajasthan,Jaipur,Low,26-35,5,8.4,4,Truck/Commercial,No,13000,10.1,Budget Segment
+Rajasthan,Jaipur,Mid,50+,5,7.2,16,Scooter/Bike,Yes,8226,9.8,Mid-range Consumer
+Rajasthan,Jaipur,Mid,50+,11,5.5,4,Sedan/SUV,Yes,11534,19.1,Mid-range Consumer
+Rajasthan,Jaipur,High,50+,10,6.6,10,Scooter/Bike,No,13566,13.5,General Segment
+Rajasthan,Jaipur,Low,36-50,28,8.6,8,Sedan/SUV,Yes,8771,6.4,Budget Segment
+Rajasthan,Jaipur,Low,36-50,27,8.2,14,Truck/Commercial,Yes,12426,19.5,Budget Segment
+Telangana,Hyderabad,High,36-50,5,6.1,13,Scooter/Bike,No,5309,6.1,General Segment
+Telangana,Hyderabad,High,18-25,31,6.5,14,Scooter/Bike,Yes,8630,17.3,General Segment
+Telangana,Hyderabad,Mid,36-50,14,7.2,18,Scooter/Bike,Yes,8769,5.9,Mid-range Consumer
+Telangana,Hyderabad,High,26-35,20,6.9,19,Scooter/Bike,Yes,11061,12.1,General Segment
+Telangana,Hyderabad,High,18-25,33,5.7,11,Scooter/Bike,No,6967,11.7,General Segment
+Telangana,Hyderabad,Mid,18-25,35,5.2,4,Scooter/Bike,No,9769,6,Frequent Commuter
+Telangana,Hyderabad,Low,18-25,27,6.3,12,Sedan/SUV,No,6490,15.4,Budget Segment
+Telangana,Hyderabad,High,18-25,33,9.3,19,Scooter/Bike,Yes,2261,13,General Segment
+Telangana,Hyderabad,High,36-50,17,8.3,15,Truck/Commercial,No,1860,14.4,General Segment
+Telangana,Hyderabad,Low,18-25,35,5.6,17,Truck/Commercial,No,8551,19.2,Budget Segment
+Telangana,Hyderabad,High,26-35,11,8.1,12,Scooter/Bike,Yes,1732,16.3,General Segment
+Telangana,Hyderabad,Mid,50+,38,6.3,17,Sedan/SUV,No,3883,15.1,Frequent Commuter
+Telangana,Hyderabad,Low,26-35,37,8.4,9,Truck/Commercial,No,14849,19.9,Budget Segment
+Telangana,Hyderabad,High,18-25,37,7.9,20,Sedan/SUV,No,4366,18.7,Premium Segment
+Telangana,Hyderabad,Low,26-35,17,9.5,13,Scooter/Bike,Yes,3941,14.6,Budget Segment
+Telangana,Hyderabad,High,18-25,37,5.9,15,Scooter/Bike,Yes,8756,18.3,General Segment
+Telangana,Hyderabad,High,26-35,39,5.9,15,Scooter/Bike,No,13023,7.3,General Segment
+Telangana,Hyderabad,Low,50+,12,6,14,Sedan/SUV,Yes,12973,16.7,Budget Segment
+Telangana,Hyderabad,Mid,36-50,21,5.6,11,Scooter/Bike,No,1272,9.1,Frequent Commuter
+Telangana,Hyderabad,High,18-25,24,6,11,Sedan/SUV,No,1641,19.6,Premium Segment
+Telangana,Hyderabad,High,26-35,9,8.4,16,Sedan/SUV,No,8980,13.3,Premium Segment
+Telangana,Hyderabad,High,18-25,7,8.1,7,Sedan/SUV,Yes,13525,6.2,Premium Segment
+Telangana,Hyderabad,Mid,36-50,13,7.7,9,Truck/Commercial,Yes,5410,8,Mid-range Consumer
+Telangana,Hyderabad,Mid,18-25,29,6.1,12,Truck/Commercial,No,1739,19.9,Frequent Commuter
+Telangana,Hyderabad,High,36-50,21,8.4,5,Scooter/Bike,Yes,4846,6.8,General Segment
+Telangana,Hyderabad,Low,36-50,17,8.2,15,Truck/Commercial,No,7029,19.5,Budget Segment
+Telangana,Hyderabad,Mid,18-25,9,8.8,18,Sedan/SUV,Yes,4960,12.2,Mid-range Consumer
+Telangana,Hyderabad,High,50+,34,7.8,12,Scooter/Bike,No,11609,19.5,General Segment
+Telangana,Hyderabad,Low,50+,17,6.9,7,Truck/Commercial,Yes,3581,11.8,Budget Segment
+Telangana,Hyderabad,Mid,26-35,6,7.5,6,Truck/Commercial,No,14812,18.6,Mid-range Consumer
+Telangana,Hyderabad,High,50+,22,9.3,10,Scooter/Bike,No,14324,9.2,General Segment
+Telangana,Hyderabad,Mid,50+,31,8.9,19,Sedan/SUV,No,8342,5.3,Frequent Commuter
+Telangana,Hyderabad,Low,18-25,8,5.1,12,Truck/Commercial,Yes,11593,13.5,Budget Segment
+Telangana,Hyderabad,Mid,50+,28,6.4,13,Scooter/Bike,No,14257,6.2,Frequent Commuter
+Telangana,Hyderabad,High,26-35,16,5.9,10,Truck/Commercial,Yes,5569,8,General Segment
+Telangana,Hyderabad,High,36-50,19,6.4,17,Scooter/Bike,Yes,3810,19.3,General Segment
+Telangana,Hyderabad,High,18-25,8,7.5,12,Sedan/SUV,Yes,11761,16.4,Premium Segment
+Telangana,Hyderabad,Low,50+,29,8,9,Scooter/Bike,No,3003,11.1,Budget Segment
+Telangana,Hyderabad,High,50+,24,5.4,15,Scooter/Bike,Yes,6560,14.8,General Segment
+Telangana,Hyderabad,Mid,26-35,25,7.7,9,Scooter/Bike,Yes,9441,17.4,Frequent Commuter
+Telangana,Hyderabad,Low,36-50,35,5,19,Truck/Commercial,Yes,2521,6.8,Budget Segment
+Telangana,Hyderabad,Mid,18-25,39,7.2,5,Truck/Commercial,Yes,9743,5.4,Frequent Commuter
+Telangana,Hyderabad,Low,36-50,35,7.2,20,Truck/Commercial,Yes,2345,5.9,Budget Segment
+Telangana,Hyderabad,High,50+,13,8.3,6,Sedan/SUV,No,12775,17.6,Premium Segment
+Telangana,Hyderabad,Mid,18-25,40,7.4,11,Truck/Commercial,Yes,10612,7.6,Frequent Commuter
+Telangana,Hyderabad,Low,26-35,27,6,3,Scooter/Bike,Yes,13857,14,Budget Segment
+Telangana,Hyderabad,Mid,18-25,34,8.3,8,Scooter/Bike,No,5135,15.3,Frequent Commuter
+Telangana,Hyderabad,Low,18-25,39,5.4,8,Sedan/SUV,Yes,10027,8.6,Budget Segment
+Telangana,Hyderabad,Low,50+,7,7.9,5,Truck/Commercial,Yes,5945,8.9,Budget Segment
+Telangana,Hyderabad,Low,36-50,32,9.5,18,Truck/Commercial,No,3578,14.8,Budget Segment
+Maharashtra,Mumbai,High,18-25,6,8.7,16,Truck/Commercial,Yes,3617,7.8,General Segment
+Maharashtra,Mumbai,High,36-50,32,7.4,15,Sedan/SUV,No,8521,16.9,Premium Segment
+Maharashtra,Mumbai,High,26-35,34,5.5,9,Scooter/Bike,Yes,2611,5.9,General Segment
+Maharashtra,Mumbai,Low,26-35,19,6.3,7,Truck/Commercial,Yes,14653,10,Budget Segment
+Maharashtra,Mumbai,Mid,36-50,5,5.7,16,Scooter/Bike,Yes,1963,8.6,Mid-range Consumer
+Maharashtra,Mumbai,Low,50+,28,5,11,Sedan/SUV,Yes,3549,15.9,Budget Segment
+Maharashtra,Mumbai,High,36-50,24,5.1,7,Truck/Commercial,No,8044,10.2,General Segment
+Maharashtra,Mumbai,High,26-35,16,5,4,Scooter/Bike,No,9376,5.9,General Segment
+Maharashtra,Mumbai,Low,26-35,21,7.9,19,Scooter/Bike,No,13413,6.7,Budget Segment
+Maharashtra,Mumbai,Low,50+,37,7.9,16,Scooter/Bike,Yes,9457,13.7,Budget Segment
+Maharashtra,Mumbai,Low,26-35,11,7.6,4,Sedan/SUV,Yes,6949,5.5,Budget Segment
+Maharashtra,Mumbai,High,18-25,8,6.1,13,Sedan/SUV,Yes,2891,5.7,Premium Segment
+Maharashtra,Mumbai,Mid,18-25,36,6.2,19,Truck/Commercial,No,7632,5.1,Frequent Commuter
+Maharashtra,Mumbai,High,18-25,24,9.2,13,Scooter/Bike,No,10883,17.2,General Segment
+Maharashtra,Mumbai,Low,50+,30,8.4,13,Sedan/SUV,Yes,4168,8.8,Budget Segment
+Maharashtra,Mumbai,High,50+,15,8.1,12,Sedan/SUV,Yes,14032,18.3,Premium Segment
+Maharashtra,Mumbai,High,36-50,18,5.4,10,Scooter/Bike,No,8320,8.2,General Segment
+Maharashtra,Mumbai,Mid,18-25,26,7.5,13,Scooter/Bike,Yes,10693,19.6,Frequent Commuter
+Maharashtra,Mumbai,Low,50+,11,8.9,5,Sedan/SUV,Yes,6757,10.8,Budget Segment
+Maharashtra,Mumbai,High,26-35,17,6.8,3,Truck/Commercial,Yes,12654,11.2,General Segment
+Maharashtra,Mumbai,Low,26-35,20,6.5,19,Scooter/Bike,No,4244,19.6,Budget Segment
+Maharashtra,Mumbai,Low,36-50,30,8.7,19,Sedan/SUV,No,8651,14.2,Budget Segment
+Maharashtra,Mumbai,Mid,36-50,11,9.1,13,Sedan/SUV,No,6493,10.9,Mid-range Consumer
+Maharashtra,Mumbai,High,18-25,23,5.6,12,Sedan/SUV,Yes,6808,13.3,Premium Segment
+Maharashtra,Mumbai,Low,18-25,21,5.3,7,Scooter/Bike,No,9014,5.7,Budget Segment
+Maharashtra,Mumbai,Low,50+,21,8.1,13,Truck/Commercial,Yes,4248,8.6,Budget Segment
+Maharashtra,Mumbai,Mid,50+,7,8.4,4,Truck/Commercial,No,5682,19.9,Mid-range Consumer
+Maharashtra,Mumbai,High,50+,6,6.7,20,Truck/Commercial,Yes,9945,19.9,General Segment
+Maharashtra,Mumbai,Low,36-50,38,9.4,20,Truck/Commercial,No,3006,19.5,Budget Segment
+Maharashtra,Mumbai,Low,50+,18,7.9,17,Truck/Commercial,No,3441,11.7,Budget Segment
+Maharashtra,Mumbai,Low,18-25,11,8.1,19,Truck/Commercial,Yes,12430,16,Budget Segment
+Maharashtra,Mumbai,High,26-35,7,7.3,15,Sedan/SUV,No,8625,12.4,Premium Segment
+Maharashtra,Mumbai,High,18-25,22,9.2,13,Sedan/SUV,No,11487,8.3,Premium Segment
+Maharashtra,Mumbai,High,18-25,12,5,11,Scooter/Bike,No,4505,8.8,General Segment
+Maharashtra,Mumbai,Low,36-50,10,6.8,8,Scooter/Bike,Yes,10711,6,Budget Segment
+Maharashtra,Mumbai,High,18-25,40,7.6,5,Truck/Commercial,Yes,1416,16.2,General Segment
+Maharashtra,Mumbai,High,18-25,30,9.2,3,Truck/Commercial,Yes,3085,12.9,General Segment
+Maharashtra,Mumbai,Low,36-50,28,7.7,7,Truck/Commercial,Yes,13303,13.6,Budget Segment
+Maharashtra,Mumbai,High,50+,23,8.7,6,Scooter/Bike,Yes,11481,13.8,General Segment
+Maharashtra,Mumbai,Mid,18-25,22,5.3,10,Truck/Commercial,No,3615,15.7,Frequent Commuter
+Maharashtra,Mumbai,Mid,50+,5,5.4,3,Truck/Commercial,No,6584,12.9,Mid-range Consumer
+Maharashtra,Mumbai,Mid,50+,11,7,9,Scooter/Bike,No,4635,14.8,Mid-range Consumer
+Maharashtra,Mumbai,Low,26-35,36,5.5,20,Scooter/Bike,No,9852,8.8,Budget Segment
+Maharashtra,Mumbai,High,50+,27,7,5,Scooter/Bike,Yes,12029,10.1,General Segment
+Maharashtra,Mumbai,Low,50+,9,7.8,12,Sedan/SUV,No,9534,15.4,Budget Segment
+Maharashtra,Mumbai,High,36-50,9,8.7,20,Sedan/SUV,No,2571,13.7,Premium Segment
+Maharashtra,Mumbai,Low,18-25,11,6.8,9,Sedan/SUV,Yes,7911,13.6,Budget Segment
+Maharashtra,Mumbai,Low,50+,23,5.9,9,Truck/Commercial,Yes,3541,14.5,Budget Segment
+Maharashtra,Mumbai,Low,36-50,33,7.9,18,Scooter/Bike,No,7217,9.1,Budget Segment
+Maharashtra,Mumbai,Mid,36-50,31,9.1,20,Scooter/Bike,Yes,4782,9.5,Frequent Commuter
+Tamil Nadu,Chennai,Low,36-50,38,8.8,17,Scooter/Bike,Yes,2978,7.5,Budget Segment
+Tamil Nadu,Chennai,Low,36-50,20,7.5,13,Scooter/Bike,No,3338,5.6,Budget Segment
+Tamil Nadu,Chennai,Low,18-25,30,7.5,8,Sedan/SUV,Yes,11031,14.2,Budget Segment
+Tamil Nadu,Chennai,Low,26-35,15,6.8,15,Scooter/Bike,No,5300,11,Budget Segment
+Tamil Nadu,Chennai,Low,26-35,20,8,14,Sedan/SUV,No,9491,18.2,Budget Segment
+Tamil Nadu,Chennai,Low,26-35,9,8.3,15,Sedan/SUV,Yes,11833,15.3,Budget Segment
+Tamil Nadu,Chennai,High,36-50,19,6.3,18,Scooter/Bike,Yes,7140,18,General Segment
+Tamil Nadu,Chennai,High,50+,38,5.5,13,Sedan/SUV,Yes,14532,12.2,Premium Segment
+Tamil Nadu,Chennai,Low,18-25,16,6.9,11,Sedan/SUV,Yes,2517,5.6,Budget Segment
+Tamil Nadu,Chennai,Low,18-25,8,6.4,14,Truck/Commercial,No,6487,9,Budget Segment
+Tamil Nadu,Chennai,High,18-25,18,5.2,7,Scooter/Bike,No,8386,14.5,General Segment
+Tamil Nadu,Chennai,Low,18-25,35,7.7,19,Sedan/SUV,No,11509,9.2,Budget Segment
+Tamil Nadu,Chennai,Low,18-25,18,7.6,18,Scooter/Bike,No,14809,15.2,Budget Segment
+Tamil Nadu,Chennai,High,50+,16,8.2,11,Sedan/SUV,Yes,4397,8.2,Premium Segment
+Tamil Nadu,Chennai,Low,50+,13,6.7,9,Truck/Commercial,Yes,5883,17.5,Budget Segment
+Tamil Nadu,Chennai,High,26-35,20,7.9,11,Scooter/Bike,No,11478,14.6,General Segment
+Tamil Nadu,Chennai,Mid,36-50,27,8.3,7,Scooter/Bike,No,9072,5.4,Frequent Commuter
+Tamil Nadu,Chennai,Low,36-50,26,7.3,10,Truck/Commercial,Yes,1537,7,Budget Segment
+Tamil Nadu,Chennai,Low,36-50,27,7.8,15,Truck/Commercial,No,6583,6.4,Budget Segment
+Tamil Nadu,Chennai,Low,18-25,24,5.2,17,Truck/Commercial,No,7284,12.6,Budget Segment
+Tamil Nadu,Chennai,Low,26-35,28,5.5,5,Scooter/Bike,Yes,5256,16,Budget Segment
+Tamil Nadu,Chennai,Mid,36-50,32,9.4,3,Truck/Commercial,Yes,3668,10.8,Frequent Commuter
+Tamil Nadu,Chennai,Low,26-35,18,6.3,3,Truck/Commercial,No,10431,13.3,Budget Segment
+Tamil Nadu,Chennai,High,18-25,31,7,13,Sedan/SUV,No,11010,6,Premium Segment
+Tamil Nadu,Chennai,Low,36-50,18,8.6,12,Truck/Commercial,Yes,5383,19.1,Budget Segment
+Tamil Nadu,Chennai,Low,36-50,5,6.9,20,Sedan/SUV,Yes,13534,8,Budget Segment
+Tamil Nadu,Chennai,High,50+,33,6.7,12,Scooter/Bike,Yes,14996,13.2,General Segment
+Tamil Nadu,Chennai,Mid,50+,16,9.2,6,Truck/Commercial,No,5108,16.9,Mid-range Consumer
+Tamil Nadu,Chennai,High,26-35,26,6.7,14,Truck/Commercial,No,11675,7.4,General Segment
+Tamil Nadu,Chennai,Mid,50+,19,8.2,11,Sedan/SUV,Yes,14738,7.6,Mid-range Consumer
+Tamil Nadu,Chennai,Low,26-35,37,7.5,15,Sedan/SUV,Yes,12900,16,Budget Segment
+Tamil Nadu,Chennai,High,36-50,19,8.4,12,Truck/Commercial,No,2311,5.3,General Segment
+Tamil Nadu,Chennai,High,18-25,17,6.6,13,Truck/Commercial,Yes,11381,7,General Segment
+Tamil Nadu,Chennai,High,36-50,14,7.9,20,Sedan/SUV,No,8846,17.9,Premium Segment
+Tamil Nadu,Chennai,High,50+,29,5.4,11,Sedan/SUV,No,13405,7.8,Premium Segment
+Tamil Nadu,Chennai,Mid,18-25,17,5.5,6,Truck/Commercial,Yes,10035,13.2,Mid-range Consumer
+Tamil Nadu,Chennai,Low,18-25,28,8.6,16,Scooter/Bike,Yes,14554,13.8,Budget Segment
+Tamil Nadu,Chennai,Low,26-35,23,8.5,18,Scooter/Bike,Yes,14645,16.1,Budget Segment
+Tamil Nadu,Chennai,Mid,18-25,34,7.5,17,Sedan/SUV,No,14083,14.1,Frequent Commuter
+Tamil Nadu,Chennai,Low,36-50,35,7.5,16,Truck/Commercial,Yes,9575,6.1,Budget Segment
+Tamil Nadu,Chennai,High,18-25,10,5.4,19,Truck/Commercial,Yes,5275,19.8,General Segment
+Tamil Nadu,Chennai,Mid,36-50,9,6.6,9,Scooter/Bike,No,9822,9.4,Mid-range Consumer
+Tamil Nadu,Chennai,High,36-50,30,6.7,6,Sedan/SUV,No,12086,16.4,Premium Segment
+Tamil Nadu,Chennai,High,50+,35,5.9,16,Sedan/SUV,No,8612,17.5,Premium Segment
+Tamil Nadu,Chennai,Low,18-25,28,5.3,17,Sedan/SUV,Yes,3425,16.3,Budget Segment
+Tamil Nadu,Chennai,High,50+,35,5.6,17,Scooter/Bike,Yes,14524,6,General Segment
+Tamil Nadu,Chennai,Mid,18-25,37,5,12,Scooter/Bike,Yes,4458,6.9,Frequent Commuter
+Tamil Nadu,Chennai,Low,26-35,22,8.6,13,Truck/Commercial,No,2086,12.5,Budget Segment
+Tamil Nadu,Chennai,High,18-25,28,8,10,Truck/Commercial,No,5339,16.1,General Segment
+Tamil Nadu,Chennai,Low,18-25,10,5.3,8,Scooter/Bike,No,14912,14.3,Budget Segment
+West Bengal,Kolkata,Mid,36-50,31,6.3,20,Scooter/Bike,No,13464,16.5,Frequent Commuter
+West Bengal,Kolkata,Mid,36-50,11,6,16,Sedan/SUV,No,1090,12.7,Mid-range Consumer
+West Bengal,Kolkata,Low,50+,18,5,16,Truck/Commercial,No,14773,15.7,Budget Segment
+West Bengal,Kolkata,High,26-35,28,9.3,5,Scooter/Bike,Yes,6463,17.2,General Segment
+West Bengal,Kolkata,High,50+,38,7.4,16,Sedan/SUV,Yes,5836,13.1,Premium Segment
+West Bengal,Kolkata,High,18-25,28,6.6,6,Sedan/SUV,Yes,1692,16.4,Premium Segment
+West Bengal,Kolkata,Low,50+,29,9.4,20,Truck/Commercial,No,6826,8.4,Budget Segment
+West Bengal,Kolkata,High,50+,28,7.6,6,Truck/Commercial,Yes,7294,8.5,General Segment
+West Bengal,Kolkata,Mid,18-25,35,9.4,3,Truck/Commercial,Yes,3661,8.2,Frequent Commuter
+West Bengal,Kolkata,High,50+,16,7.9,19,Scooter/Bike,Yes,8925,18.6,General Segment
+West Bengal,Kolkata,Mid,18-25,17,6.2,6,Truck/Commercial,No,6812,6.6,Mid-range Consumer
+West Bengal,Kolkata,High,36-50,20,8.8,18,Scooter/Bike,Yes,10042,18.1,General Segment
+West Bengal,Kolkata,Low,50+,22,7.3,12,Scooter/Bike,No,13516,6,Budget Segment
+West Bengal,Kolkata,High,18-25,39,6.1,6,Truck/Commercial,Yes,2895,6.6,General Segment
+West Bengal,Kolkata,High,36-50,33,8.9,15,Scooter/Bike,No,11342,10.4,General Segment
+West Bengal,Kolkata,Mid,36-50,40,5.7,6,Sedan/SUV,Yes,12665,8.2,Frequent Commuter
+West Bengal,Kolkata,Mid,36-50,11,8.5,15,Truck/Commercial,No,12431,6.9,Mid-range Consumer
+West Bengal,Kolkata,High,26-35,33,5.8,11,Scooter/Bike,No,7516,16.8,General Segment
+West Bengal,Kolkata,High,26-35,18,5.8,7,Sedan/SUV,Yes,2618,15.3,Premium Segment
+West Bengal,Kolkata,Mid,26-35,10,8.3,5,Scooter/Bike,No,3570,17.5,Mid-range Consumer
+West Bengal,Kolkata,Mid,18-25,10,8.3,4,Sedan/SUV,No,5999,19,Mid-range Consumer
+West Bengal,Kolkata,Low,26-35,37,7.9,18,Sedan/SUV,No,4437,17.5,Budget Segment
+West Bengal,Kolkata,Low,36-50,18,7.7,15,Truck/Commercial,No,7001,11.7,Budget Segment
+West Bengal,Kolkata,Mid,36-50,38,9.3,19,Sedan/SUV,Yes,2232,16.2,Frequent Commuter
+West Bengal,Kolkata,High,18-25,21,8.7,5,Sedan/SUV,Yes,4569,17.4,Premium Segment
+West Bengal,Kolkata,Low,36-50,23,5.9,5,Truck/Commercial,No,7862,7.5,Budget Segment
+West Bengal,Kolkata,High,26-35,29,5.2,5,Truck/Commercial,Yes,11386,8.9,General Segment
+West Bengal,Kolkata,Mid,50+,29,5.8,8,Sedan/SUV,Yes,8738,16.6,Frequent Commuter
+West Bengal,Kolkata,Mid,50+,39,6,4,Scooter/Bike,No,11466,18.6,Frequent Commuter
+West Bengal,Kolkata,Low,26-35,25,8,6,Scooter/Bike,No,3230,5,Budget Segment
+West Bengal,Kolkata,Mid,18-25,24,8.6,5,Scooter/Bike,No,4848,10.9,Frequent Commuter
+West Bengal,Kolkata,Mid,26-35,39,6.4,9,Scooter/Bike,No,12722,18.1,Frequent Commuter
+West Bengal,Kolkata,High,26-35,38,6.6,18,Truck/Commercial,No,12107,8.6,General Segment
+West Bengal,Kolkata,Low,50+,30,6,12,Sedan/SUV,Yes,4853,10.1,Budget Segment
+West Bengal,Kolkata,High,18-25,21,9.3,10,Sedan/SUV,No,13527,8.5,Premium Segment
+West Bengal,Kolkata,High,18-25,18,8.7,15,Truck/Commercial,Yes,10137,15.3,General Segment
+West Bengal,Kolkata,Low,26-35,26,5.7,6,Sedan/SUV,Yes,2599,12.9,Budget Segment
+West Bengal,Kolkata,High,18-25,28,9.2,19,Sedan/SUV,Yes,13877,14.5,Premium Segment
+West Bengal,Kolkata,High,26-35,36,9.3,10,Sedan/SUV,No,14373,14,Premium Segment
+West Bengal,Kolkata,High,50+,34,9.3,20,Scooter/Bike,Yes,7716,8.1,General Segment
+West Bengal,Kolkata,Mid,36-50,32,6.3,4,Sedan/SUV,No,10863,11.2,Frequent Commuter
+West Bengal,Kolkata,Low,26-35,32,7.6,8,Scooter/Bike,Yes,11848,8.1,Budget Segment
+West Bengal,Kolkata,Low,18-25,10,9.2,14,Scooter/Bike,No,2389,17.6,Budget Segment
+West Bengal,Kolkata,Mid,26-35,36,5.5,16,Truck/Commercial,Yes,6671,17.4,Frequent Commuter
+West Bengal,Kolkata,Low,50+,8,6.1,17,Scooter/Bike,No,11851,7.6,Budget Segment
+West Bengal,Kolkata,Mid,26-35,30,6,20,Sedan/SUV,Yes,14896,15.1,Frequent Commuter
+West Bengal,Kolkata,High,36-50,22,6.4,9,Scooter/Bike,Yes,2112,16.1,General Segment
+West Bengal,Kolkata,High,50+,13,6.4,19,Sedan/SUV,Yes,6138,15.6,Premium Segment
+West Bengal,Kolkata,Low,18-25,36,7.8,4,Truck/Commercial,No,12061,18.1,Budget Segment
+West Bengal,Kolkata,Mid,36-50,35,5.9,19,Scooter/Bike,No,11303,18.7,Frequent Commuter
+Gujarat,Ahmedabad,Low,36-50,9,6,13,Sedan/SUV,No,8676,6.2,Budget Segment
+Gujarat,Ahmedabad,High,18-25,6,9.1,3,Truck/Commercial,Yes,10675,6.8,General Segment
+Gujarat,Ahmedabad,Low,26-35,20,8.1,9,Sedan/SUV,Yes,13281,8.5,Budget Segment
+Gujarat,Ahmedabad,Low,26-35,17,8.3,19,Sedan/SUV,No,2097,11.6,Budget Segment
+Gujarat,Ahmedabad,High,36-50,10,6.2,4,Truck/Commercial,Yes,1882,18.3,General Segment
+Gujarat,Ahmedabad,High,26-35,33,8.6,19,Sedan/SUV,Yes,7657,15,Premium Segment
+Gujarat,Ahmedabad,High,18-25,38,6.9,19,Scooter/Bike,No,2930,7.2,General Segment
+Gujarat,Ahmedabad,Mid,26-35,10,5.5,7,Sedan/SUV,No,10356,13.4,Mid-range Consumer
+Gujarat,Ahmedabad,Low,50+,40,6.5,20,Scooter/Bike,No,12438,8.6,Budget Segment
+Gujarat,Ahmedabad,High,26-35,30,8.2,19,Truck/Commercial,No,13157,13.3,General Segment
+Gujarat,Ahmedabad,Low,36-50,8,8.1,17,Truck/Commercial,Yes,9952,18.7,Budget Segment
+Gujarat,Ahmedabad,Low,18-25,40,9.2,8,Sedan/SUV,No,8356,10.4,Budget Segment
+Gujarat,Ahmedabad,High,36-50,21,8.2,16,Sedan/SUV,Yes,3670,8.6,Premium Segment
+Gujarat,Ahmedabad,Mid,36-50,26,5.4,5,Truck/Commercial,No,14170,19.9,Frequent Commuter
+Gujarat,Ahmedabad,Low,26-35,15,6.6,14,Scooter/Bike,Yes,11940,6.2,Budget Segment
+Gujarat,Ahmedabad,High,18-25,35,6.7,7,Sedan/SUV,Yes,7438,9.8,Premium Segment
+Gujarat,Ahmedabad,Mid,36-50,40,9.5,3,Truck/Commercial,Yes,11188,13.1,Frequent Commuter
+Gujarat,Ahmedabad,Low,18-25,32,7.2,10,Scooter/Bike,No,1650,10.2,Budget Segment
+Gujarat,Ahmedabad,Low,50+,36,8.9,20,Truck/Commercial,No,8242,18.7,Budget Segment
+Gujarat,Ahmedabad,High,26-35,20,7.5,17,Truck/Commercial,No,5111,10.2,General Segment
+Gujarat,Ahmedabad,Low,18-25,23,7.7,16,Sedan/SUV,No,14065,12.9,Budget Segment
+Gujarat,Ahmedabad,High,18-25,17,7.8,3,Sedan/SUV,No,2121,13.2,Premium Segment
+Gujarat,Ahmedabad,Low,26-35,27,6.2,14,Truck/Commercial,Yes,11800,6.2,Budget Segment
+Gujarat,Ahmedabad,High,26-35,26,8.8,5,Truck/Commercial,No,10383,14.7,General Segment
+Gujarat,Ahmedabad,Low,18-25,37,6.1,17,Truck/Commercial,Yes,3421,14.5,Budget Segment
+Gujarat,Ahmedabad,Mid,18-25,11,8.7,9,Sedan/SUV,Yes,9976,15.2,Mid-range Consumer
+Gujarat,Ahmedabad,Low,36-50,30,8.6,11,Truck/Commercial,No,3304,17.1,Budget Segment
+Gujarat,Ahmedabad,High,26-35,14,8.4,7,Scooter/Bike,Yes,1106,9.8,General Segment
+Gujarat,Ahmedabad,High,26-35,30,5.5,20,Truck/Commercial,Yes,8162,13.6,General Segment
+Gujarat,Ahmedabad,High,18-25,11,8.8,9,Sedan/SUV,No,8901,17.3,Premium Segment
+Gujarat,Ahmedabad,Mid,36-50,32,9.1,15,Scooter/Bike,Yes,8179,19.8,Frequent Commuter
+Gujarat,Ahmedabad,Mid,26-35,19,5.1,12,Scooter/Bike,No,1430,5.3,Mid-range Consumer
+Gujarat,Ahmedabad,Low,18-25,27,6.3,7,Sedan/SUV,Yes,11776,9,Budget Segment
+Gujarat,Ahmedabad,High,26-35,23,8.1,15,Truck/Commercial,Yes,1094,20,General Segment
+Gujarat,Ahmedabad,High,36-50,30,8.6,18,Sedan/SUV,Yes,5013,17.2,Premium Segment
+Gujarat,Ahmedabad,High,26-35,14,8.9,17,Scooter/Bike,No,11329,19.7,General Segment
+Gujarat,Ahmedabad,High,26-35,16,5.1,19,Sedan/SUV,No,11710,14.9,Premium Segment
+Gujarat,Ahmedabad,Mid,26-35,18,8.9,6,Scooter/Bike,No,8277,16.6,Mid-range Consumer
+Gujarat,Ahmedabad,Low,36-50,20,6.6,4,Truck/Commercial,No,11577,10.2,Budget Segment
+Gujarat,Ahmedabad,Low,36-50,38,7.7,12,Scooter/Bike,No,8360,7.4,Budget Segment
+Gujarat,Ahmedabad,High,36-50,26,8.5,4,Sedan/SUV,No,7947,5,Premium Segment
+Gujarat,Ahmedabad,Mid,18-25,18,5.4,13,Scooter/Bike,No,14159,16,Mid-range Consumer
+Gujarat,Ahmedabad,Mid,36-50,33,7.8,9,Sedan/SUV,No,14535,8.4,Frequent Commuter
+Gujarat,Ahmedabad,High,36-50,17,6.9,17,Sedan/SUV,Yes,1370,17.4,Premium Segment
+Gujarat,Ahmedabad,Low,26-35,22,6.1,4,Truck/Commercial,Yes,11269,13.5,Budget Segment
+Gujarat,Ahmedabad,Low,36-50,16,8.3,14,Sedan/SUV,No,1665,14,Budget Segment
+Gujarat,Ahmedabad,Mid,18-25,27,8.1,9,Sedan/SUV,Yes,13981,9.9,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,25,7.3,20,Scooter/Bike,Yes,13167,7.1,General Segment
+Gujarat,Ahmedabad,Low,50+,29,6.6,3,Sedan/SUV,Yes,8681,19.3,Budget Segment
+Gujarat,Ahmedabad,Mid,26-35,15,7.6,13,Sedan/SUV,Yes,11322,13.9,Mid-range Consumer
+Uttar Pradesh,Lucknow,High,26-35,27,7.1,6,Truck/Commercial,Yes,4376,19.3,General Segment
+Uttar Pradesh,Lucknow,High,36-50,37,7.4,4,Truck/Commercial,No,3673,5.6,General Segment
+Uttar Pradesh,Lucknow,High,36-50,27,7.6,16,Sedan/SUV,No,5305,8.3,Premium Segment
+Uttar Pradesh,Lucknow,Low,18-25,37,9,18,Sedan/SUV,Yes,10225,12.6,Budget Segment
+Uttar Pradesh,Lucknow,High,36-50,25,8.6,13,Scooter/Bike,No,1851,16.3,General Segment
+Uttar Pradesh,Lucknow,Mid,18-25,18,6.6,20,Scooter/Bike,No,4163,8.5,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,50+,36,8.3,6,Sedan/SUV,No,9625,9.5,Frequent Commuter
+Uttar Pradesh,Lucknow,High,36-50,26,6.6,11,Scooter/Bike,No,6451,14.2,General Segment
+Uttar Pradesh,Lucknow,Low,50+,12,8.2,14,Sedan/SUV,No,3901,15.6,Budget Segment
+Uttar Pradesh,Lucknow,High,26-35,15,6.7,13,Sedan/SUV,Yes,4070,6.9,Premium Segment
+Uttar Pradesh,Lucknow,High,50+,5,5.6,10,Truck/Commercial,No,11482,8.8,General Segment
+Uttar Pradesh,Lucknow,Mid,26-35,18,5.8,20,Truck/Commercial,No,2698,10.2,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,36-50,35,8.4,4,Scooter/Bike,Yes,4066,15.7,Frequent Commuter
+Uttar Pradesh,Lucknow,High,18-25,8,5.3,3,Sedan/SUV,Yes,9528,14,Premium Segment
+Uttar Pradesh,Lucknow,Mid,50+,36,8.9,8,Scooter/Bike,No,4737,17.3,Frequent Commuter
+Uttar Pradesh,Lucknow,Low,36-50,32,6.2,14,Scooter/Bike,No,6198,7.4,Budget Segment
+Uttar Pradesh,Lucknow,Low,36-50,6,8.8,15,Sedan/SUV,No,12624,8.8,Budget Segment
+Uttar Pradesh,Lucknow,Mid,18-25,16,7.2,20,Truck/Commercial,Yes,11323,19.7,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,50+,8,5,17,Truck/Commercial,Yes,8375,18.2,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,18-25,8,6.3,15,Sedan/SUV,Yes,11239,8,Mid-range Consumer
+Uttar Pradesh,Lucknow,Low,50+,29,6.4,14,Truck/Commercial,No,5983,12.6,Budget Segment
+Uttar Pradesh,Lucknow,Low,36-50,24,5.5,8,Truck/Commercial,No,4944,17.9,Budget Segment
+Uttar Pradesh,Lucknow,Mid,50+,34,8.1,12,Truck/Commercial,Yes,2561,8.7,Frequent Commuter
+Uttar Pradesh,Lucknow,Low,18-25,38,6.3,15,Scooter/Bike,No,5072,16,Budget Segment
+Uttar Pradesh,Lucknow,Low,26-35,39,9.1,9,Sedan/SUV,Yes,10691,10.3,Budget Segment
+Uttar Pradesh,Lucknow,Mid,18-25,17,7.8,13,Scooter/Bike,Yes,1268,16.4,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,36-50,5,8.9,17,Sedan/SUV,No,2443,12.4,Mid-range Consumer
+Uttar Pradesh,Lucknow,Mid,36-50,24,7.7,17,Scooter/Bike,Yes,14929,16.4,Frequent Commuter
+Uttar Pradesh,Lucknow,Mid,18-25,8,8.7,17,Truck/Commercial,Yes,11822,13.1,Mid-range Consumer
+Uttar Pradesh,Lucknow,High,26-35,16,7.8,5,Sedan/SUV,Yes,5733,11.6,Premium Segment
+Uttar Pradesh,Lucknow,High,36-50,11,9.4,3,Scooter/Bike,No,9285,20,General Segment
+Uttar Pradesh,Lucknow,Low,36-50,16,5.4,19,Truck/Commercial,No,3733,6.9,Budget Segment
+Uttar Pradesh,Lucknow,Low,26-35,29,6.9,13,Scooter/Bike,Yes,11154,7.5,Budget Segment
+Uttar Pradesh,Lucknow,Mid,26-35,25,8.3,17,Sedan/SUV,No,7376,19.9,Frequent Commuter
+Uttar Pradesh,Lucknow,High,26-35,31,6.5,5,Truck/Commercial,Yes,9739,15.5,General Segment
+Uttar Pradesh,Lucknow,Low,26-35,40,8.6,20,Truck/Commercial,Yes,14003,15.1,Budget Segment
+Uttar Pradesh,Lucknow,High,18-25,40,7.3,16,Truck/Commercial,Yes,6684,17.3,General Segment
+Uttar Pradesh,Lucknow,High,18-25,8,5.8,20,Truck/Commercial,Yes,1964,18.8,General Segment
+Uttar Pradesh,Lucknow,Low,26-35,33,5.8,4,Scooter/Bike,No,1461,5.4,Budget Segment
+Uttar Pradesh,Lucknow,Low,36-50,9,7.2,9,Scooter/Bike,Yes,11303,11.5,Budget Segment
+Uttar Pradesh,Lucknow,High,50+,23,7.5,6,Sedan/SUV,No,11415,17.3,Premium Segment
+Uttar Pradesh,Lucknow,Low,18-25,7,8.1,13,Scooter/Bike,No,14724,5.1,Budget Segment
+Uttar Pradesh,Lucknow,High,18-25,21,7.2,11,Scooter/Bike,No,3595,8.6,General Segment
+Uttar Pradesh,Lucknow,Low,36-50,20,7.6,15,Sedan/SUV,Yes,7667,6.9,Budget Segment
+Uttar Pradesh,Lucknow,Mid,26-35,35,6.4,13,Sedan/SUV,No,14308,8,Frequent Commuter
+Uttar Pradesh,Lucknow,Low,50+,18,6.5,10,Sedan/SUV,No,3469,13.8,Budget Segment
+Uttar Pradesh,Lucknow,High,36-50,8,6.1,11,Truck/Commercial,No,1760,19.8,General Segment
+Uttar Pradesh,Lucknow,Low,36-50,9,6.7,7,Truck/Commercial,No,10491,16.3,Budget Segment
+Uttar Pradesh,Lucknow,Low,18-25,11,7.1,7,Sedan/SUV,Yes,13720,15.7,Budget Segment
+Uttar Pradesh,Lucknow,High,36-50,26,7.7,7,Truck/Commercial,Yes,8880,12.4,General Segment
+Madhya Pradesh,Indore,High,18-25,24,8.3,12,Scooter/Bike,No,6246,13.9,General Segment
+Madhya Pradesh,Indore,High,26-35,7,7.6,15,Sedan/SUV,Yes,11304,11.6,Premium Segment
+Madhya Pradesh,Indore,Mid,18-25,27,6.6,3,Truck/Commercial,No,6967,13.8,Frequent Commuter
+Madhya Pradesh,Indore,High,50+,35,7.7,15,Sedan/SUV,Yes,3049,10.8,Premium Segment
+Madhya Pradesh,Indore,High,36-50,11,7,4,Truck/Commercial,No,4491,14.7,General Segment
+Madhya Pradesh,Indore,High,36-50,5,7.1,3,Sedan/SUV,Yes,13056,9.6,Premium Segment
+Madhya Pradesh,Indore,Mid,36-50,21,8.1,20,Scooter/Bike,No,2732,7.2,Frequent Commuter
+Madhya Pradesh,Indore,Mid,18-25,18,7.7,3,Truck/Commercial,No,11470,5.5,Mid-range Consumer
+Madhya Pradesh,Indore,Mid,36-50,29,5.4,15,Scooter/Bike,Yes,12419,15,Frequent Commuter
+Madhya Pradesh,Indore,High,50+,33,8,17,Truck/Commercial,No,10209,7.4,General Segment
+Madhya Pradesh,Indore,Low,36-50,35,7.2,6,Scooter/Bike,No,6859,18.3,Budget Segment
+Madhya Pradesh,Indore,High,18-25,17,7.7,3,Sedan/SUV,Yes,14193,16.2,Premium Segment
+Madhya Pradesh,Indore,Low,36-50,36,8.4,10,Scooter/Bike,Yes,2608,12.2,Budget Segment
+Madhya Pradesh,Indore,High,36-50,32,9.3,18,Scooter/Bike,No,14647,6.4,General Segment
+Madhya Pradesh,Indore,High,18-25,16,7.7,14,Truck/Commercial,Yes,6673,11.8,General Segment
+Madhya Pradesh,Indore,Low,36-50,26,8.4,15,Sedan/SUV,No,14190,11.4,Budget Segment
+Madhya Pradesh,Indore,High,26-35,21,8.7,10,Sedan/SUV,No,7908,16.1,Premium Segment
+Madhya Pradesh,Indore,Mid,36-50,8,8.7,16,Scooter/Bike,Yes,7365,9.1,Mid-range Consumer
+Madhya Pradesh,Indore,High,26-35,29,7.1,4,Sedan/SUV,No,12510,14.3,Premium Segment
+Madhya Pradesh,Indore,High,36-50,5,8.8,4,Sedan/SUV,Yes,12115,7.4,Premium Segment
+Madhya Pradesh,Indore,Low,50+,18,5.4,7,Scooter/Bike,No,3778,17.9,Budget Segment
+Madhya Pradesh,Indore,Low,26-35,16,8.1,11,Truck/Commercial,Yes,6017,19.7,Budget Segment
+Madhya Pradesh,Indore,Mid,36-50,16,7.1,16,Sedan/SUV,No,9084,6.2,Mid-range Consumer
+Madhya Pradesh,Indore,Mid,50+,27,6.3,8,Sedan/SUV,Yes,8570,19.7,Frequent Commuter
+Madhya Pradesh,Indore,Mid,18-25,26,9,19,Truck/Commercial,Yes,14920,13.1,Frequent Commuter
+Madhya Pradesh,Indore,Mid,50+,28,9,10,Truck/Commercial,Yes,6198,6.1,Frequent Commuter
+Madhya Pradesh,Indore,Low,26-35,31,8.4,14,Truck/Commercial,Yes,5733,8.9,Budget Segment
+Madhya Pradesh,Indore,Low,36-50,10,8.4,17,Scooter/Bike,Yes,12026,7.2,Budget Segment
+Madhya Pradesh,Indore,Mid,50+,5,5.9,7,Truck/Commercial,Yes,3620,6.8,Mid-range Consumer
+Madhya Pradesh,Indore,Mid,50+,37,7.5,16,Scooter/Bike,Yes,4935,11,Frequent Commuter
+Madhya Pradesh,Indore,Mid,26-35,18,5.8,9,Scooter/Bike,No,12493,12.7,Mid-range Consumer
+Madhya Pradesh,Indore,Low,36-50,10,8.4,18,Truck/Commercial,No,12150,8.7,Budget Segment
+Madhya Pradesh,Indore,High,26-35,40,5.9,13,Truck/Commercial,No,13164,8.9,General Segment
+Madhya Pradesh,Indore,High,36-50,11,9.2,10,Sedan/SUV,No,1477,10.1,Premium Segment
+Madhya Pradesh,Indore,High,26-35,16,8.6,8,Scooter/Bike,Yes,9563,10.8,General Segment
+Madhya Pradesh,Indore,Mid,36-50,23,5.9,19,Sedan/SUV,Yes,13562,17.4,Frequent Commuter
+Madhya Pradesh,Indore,Low,36-50,8,7.2,7,Sedan/SUV,Yes,1166,16.8,Budget Segment
+Madhya Pradesh,Indore,Mid,26-35,12,6.2,6,Truck/Commercial,No,14587,12.8,Mid-range Consumer
+Madhya Pradesh,Indore,High,26-35,23,7.1,7,Sedan/SUV,No,7397,12.4,Premium Segment
+Madhya Pradesh,Indore,High,50+,13,8.4,5,Scooter/Bike,Yes,4411,8.7,General Segment
+Madhya Pradesh,Indore,High,36-50,27,9.4,18,Scooter/Bike,Yes,6936,11.7,General Segment
+Madhya Pradesh,Indore,High,50+,33,9.3,7,Truck/Commercial,Yes,13102,16.7,General Segment
+Madhya Pradesh,Indore,High,36-50,18,7.3,13,Scooter/Bike,Yes,10590,11.9,General Segment
+Madhya Pradesh,Indore,Mid,50+,38,5.8,8,Scooter/Bike,Yes,14634,9.7,Frequent Commuter
+Madhya Pradesh,Indore,Mid,50+,8,7,16,Truck/Commercial,No,12915,17.9,Mid-range Consumer
+Madhya Pradesh,Indore,Low,50+,6,6.4,18,Scooter/Bike,Yes,2811,7.6,Budget Segment
+Madhya Pradesh,Indore,High,36-50,10,5.5,14,Sedan/SUV,No,1129,13.3,Premium Segment
+Madhya Pradesh,Indore,High,50+,13,7.6,13,Truck/Commercial,No,2464,7.8,General Segment
+Madhya Pradesh,Indore,Mid,36-50,9,5.7,15,Sedan/SUV,Yes,4562,17.5,Mid-range Consumer
+Madhya Pradesh,Indore,Mid,50+,23,5.7,19,Scooter/Bike,No,13603,14.7,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,13,9.1,15,Sedan/SUV,No,12784,19.3,Premium Segment
+Gujarat,Ahmedabad,Mid,26-35,28,5.5,18,Truck/Commercial,No,14823,7.6,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,6,5.5,15,Sedan/SUV,Yes,6476,6.2,Premium Segment
+Gujarat,Ahmedabad,Mid,26-35,33,6.4,5,Truck/Commercial,No,7397,10.3,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,35,9.5,19,Scooter/Bike,No,12511,12.6,General Segment
+Gujarat,Ahmedabad,High,26-35,20,7.5,15,Truck/Commercial,No,8043,10.4,General Segment
+Gujarat,Ahmedabad,Mid,36-50,31,5.5,4,Sedan/SUV,No,5365,14.1,Frequent Commuter
+Gujarat,Ahmedabad,High,50+,17,5.6,12,Scooter/Bike,No,9092,14.4,General Segment
+Gujarat,Ahmedabad,Mid,18-25,32,6.4,11,Sedan/SUV,Yes,6401,16.8,Frequent Commuter
+Gujarat,Ahmedabad,Mid,50+,25,7.6,18,Scooter/Bike,No,2011,5.1,Frequent Commuter
+Gujarat,Ahmedabad,Low,18-25,34,8.6,10,Scooter/Bike,No,13522,9.5,Budget Segment
+Gujarat,Ahmedabad,High,18-25,38,8.7,11,Sedan/SUV,Yes,12396,19,Premium Segment
+Gujarat,Ahmedabad,Mid,18-25,31,7.8,19,Sedan/SUV,No,13036,18.6,Frequent Commuter
+Gujarat,Ahmedabad,Mid,50+,15,8.3,19,Sedan/SUV,Yes,7227,19.3,Mid-range Consumer
+Gujarat,Ahmedabad,Low,26-35,39,5.4,16,Truck/Commercial,Yes,9381,16.5,Budget Segment
+Gujarat,Ahmedabad,Low,18-25,20,5.2,16,Truck/Commercial,Yes,7399,14.4,Budget Segment
+Gujarat,Ahmedabad,Low,36-50,15,7.9,19,Sedan/SUV,No,5585,6.6,Budget Segment
+Gujarat,Ahmedabad,Low,50+,28,9,16,Truck/Commercial,No,7510,16.8,Budget Segment
+Gujarat,Ahmedabad,Low,36-50,35,8.9,14,Truck/Commercial,No,14713,17.6,Budget Segment
+Gujarat,Ahmedabad,Mid,26-35,5,5.4,13,Truck/Commercial,No,11670,12.1,Mid-range Consumer
+Gujarat,Ahmedabad,High,18-25,27,5.7,12,Truck/Commercial,No,10392,18.6,General Segment
+Gujarat,Ahmedabad,Low,36-50,36,5.5,12,Truck/Commercial,Yes,6571,9.8,Budget Segment
+Gujarat,Ahmedabad,Low,18-25,36,8.1,20,Sedan/SUV,Yes,5593,13,Budget Segment
+Gujarat,Ahmedabad,Mid,36-50,19,6.8,18,Scooter/Bike,No,13481,14.1,Mid-range Consumer
+Gujarat,Ahmedabad,Low,18-25,28,7,18,Truck/Commercial,No,9240,17.6,Budget Segment
+Gujarat,Ahmedabad,High,36-50,24,5.6,10,Scooter/Bike,Yes,3575,9.5,General Segment
+Gujarat,Ahmedabad,Mid,18-25,38,6.6,9,Sedan/SUV,Yes,6638,9.8,Frequent Commuter
+Gujarat,Ahmedabad,Mid,36-50,26,8.8,7,Scooter/Bike,Yes,2408,16.9,Frequent Commuter
+Gujarat,Ahmedabad,Low,50+,15,6,9,Truck/Commercial,No,6659,11.1,Budget Segment
+Gujarat,Ahmedabad,Low,18-25,38,8,10,Scooter/Bike,No,12644,16.4,Budget Segment
+Gujarat,Ahmedabad,Low,26-35,34,9,13,Sedan/SUV,Yes,4716,6.6,Budget Segment
+Gujarat,Ahmedabad,Mid,50+,17,5.8,9,Sedan/SUV,No,8735,14.8,Mid-range Consumer
+Gujarat,Ahmedabad,Mid,18-25,37,8.2,20,Sedan/SUV,No,10574,9.9,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,11,9.1,7,Truck/Commercial,Yes,4029,8.1,General Segment
+Gujarat,Ahmedabad,Mid,18-25,22,6,5,Sedan/SUV,No,14292,9.5,Frequent Commuter
+Gujarat,Ahmedabad,High,26-35,29,9.1,8,Truck/Commercial,No,4763,12.6,General Segment
+Gujarat,Ahmedabad,Mid,26-35,26,6.8,14,Scooter/Bike,Yes,6282,12.4,Frequent Commuter
+Gujarat,Ahmedabad,Low,26-35,6,8.6,20,Truck/Commercial,Yes,4999,5.1,Budget Segment
+Gujarat,Ahmedabad,Mid,36-50,17,8,15,Truck/Commercial,No,10993,19.8,Mid-range Consumer
+Gujarat,Ahmedabad,Low,50+,34,6.9,15,Sedan/SUV,No,10272,8,Budget Segment
+Gujarat,Ahmedabad,High,18-25,24,8.1,16,Truck/Commercial,No,1731,14,General Segment
+Gujarat,Ahmedabad,Low,50+,17,6.5,18,Truck/Commercial,Yes,13232,10.8,Budget Segment
+Gujarat,Ahmedabad,Low,50+,27,7,8,Scooter/Bike,Yes,10681,6.4,Budget Segment
+Gujarat,Ahmedabad,Mid,36-50,40,5.9,12,Sedan/SUV,Yes,3366,5.4,Frequent Commuter
+Gujarat,Ahmedabad,High,18-25,28,8.9,9,Scooter/Bike,Yes,5971,10.6,General Segment
+Gujarat,Ahmedabad,Mid,18-25,37,9.3,13,Scooter/Bike,No,14213,19.5,Frequent Commuter
+Gujarat,Ahmedabad,High,36-50,36,7.1,6,Sedan/SUV,No,13149,15.8,Premium Segment
+Gujarat,Ahmedabad,High,26-35,12,5.7,12,Sedan/SUV,Yes,5801,13.9,Premium Segment
+Gujarat,Ahmedabad,High,18-25,34,5.3,17,Scooter/Bike,No,3641,19.5,General Segment
+Gujarat,Ahmedabad,High,50+,16,5.3,15,Truck/Commercial,Yes,11574,13.9,General Segment
