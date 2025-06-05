@@ -7,7 +7,7 @@ The electric vehicle (EV) landscape in India is undergoing a significant transfo
 The dataset analyzed consists of 600 records covering various key parameters:
 - **City & State**: Regional distribution of EV adoption.
 - **Income & Age Groups**: Socioeconomic and generational segmentation.
-- **Daily Commute (km)**: Typical travel range influencing EV adoption.
+- **Daily Commute (km)**: Typical travel range influencing EV adoption.  
 - **EV Awareness Score**: Consumer familiarity with EV technology and benefits.
 - **Charging Station Density (per 100 sq. km)**: Availability of charging facilities.
 - **Preferred EV Type**: Preference for two-wheelers, three-wheelers, or four-wheelers.
